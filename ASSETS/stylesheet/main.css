@@ -52,8 +52,9 @@ body{
     background-color: #0f192b;
     font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-.CVHEADRER{
-    width: 100%;
+.CVHEADRER_LEFT{
+    display: inline-flex;
+    width: 50%;
     height: 5em;
     margin-top: 4em;
 }
@@ -76,6 +77,34 @@ body{
 .MPC a:hover{
     color: aqua;
 }
+.CVHEADER_RIGHT{
+    display: inline-flex;
+    float: right;
+    width: 49%;
+    height: 8.9em;
+    
+}
+.CVHEADER_RIGHT a{
+    width: 50px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 2em 10px 0 20em;
+}
+.facebook{
+    width: 50px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
 .logo{
     background-color: black;
     margin: 0 0 0 0;
