@@ -84,15 +84,69 @@ body{
     display: inline-flex;
     float: right;
     width: 49%;
-    height: 8.9em;
-    
+    height: 8.9em;   
 }
-.CVHEADER_RIGHT img{
-    margin: 40px 0 0 20em;
-    width: 20em;
-    height: 3em;
+.twitter{
+    margin: 45px 0 0 20em;
+    width: 69px;
+    height: 50px;
+    border-radius: 50%;
+}
+.twitter img{
+    margin: 2.5px 2.5px;
+    border-radius: 50%;
+    width: 65px;
+    height: 45px;
+}
+.twitter:hover{
+    background-color: white;
 }
 
+.gmail{
+    margin: 45px 0 0 13px;
+    width: 69px;
+    height: 50px;
+    border-radius: 50%;
+}
+.gmail img{
+    margin: 2.5px 2.5px;
+    border-radius: 50%;
+    width: 65px;
+    height: 45px;
+}
+.gmail:hover{
+    background-color: white;
+}
+.insta{
+   margin: 45px 0 0 13px;
+    width: 69px;
+    height: 50px;
+    border-radius: 50%;
+}
+.insta img{
+    margin: 2.5px 2.5px;
+    border-radius: 50%;
+    width: 65px;
+    height: 45px;
+}
+.insta:hover{
+    background-color: white;
+}
+.fb{
+   margin: 45px 0 0 13px;
+    width: 69px;
+    height: 50px;
+    border-radius: 50%;
+}
+.fb img{
+    margin: 2.5px 2.5px;
+    border-radius: 50%;
+    width: 65px;
+    height: 45px;
+}
+.fb:hover{
+    background-color: white;
+}
 .logo{
     background-color: black;
     margin: 0 0 0 0;
