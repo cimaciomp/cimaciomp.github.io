@@ -52,9 +52,33 @@ body{
     background-color: #0f192b;
     font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-.header{
+.CVHEADRER{
+    width: 100%;
+    height: 5em;
+    margin-top: 4em;
+}
+.CV a{
+    font-size: 6em;
+    margin: 0 0 0 50px;
+    color: aqua;
+    opacity: .40;
+    text-decoration: none;
+}
+.CV a:hover{
+    color: white;
+}
+.MPC a{
+    font-style: italic;
+    font-size: 20px;
+    color: aliceblue;
+    opacity: .40;
+}
+.MPC a:hover{
+    color: aqua;
+}
+.logo{
     background-color: black;
-    margin: 10em 0 0 0;
+    margin: 0 0 0 0;
     width: 100%;
     height: 9em;
     border-style: solid;
@@ -62,9 +86,6 @@ body{
     border-color: white;
     border-left-style: none;
     border-right-style: none;
-}
-.inner_header {
-    width: 100%;
 }
 .PROFILE_PIC{
     height: 16em;
