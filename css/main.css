@@ -87,7 +87,7 @@ header h1 p{
 ul{
      display: inline; 
      float: right;
-     margin: -3.1em 4em 0 0;
+     margin: -3.1em 5.5em 0 0;
      font-size: 15px;
      font-weight: 700;
 }
@@ -139,7 +139,77 @@ footer{
     border-style: solid;
 }
 footer p{
-   color: white;
+   color: dimgray;
    font-size: 12px;
     margin: 4px 0 0 4em;
+}
+.about{
+    height: 600px;
+    
+}
+.pABOUT{
+    font-size: 1em;
+    line-height: 20px;
+    color: white;
+    margin: 2em 0 0 16em;
+}
+.profileaboutme{
+    float: left;
+    margin: 4em 0 0 17%;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    border-radius: 50%;
+}
+h4{
+    font-size: 2em;
+    line-height: 20px;
+    font-weight: 700;
+    color: white;
+    margin: 2em 0 0 8em;
+}
+section div{
+    display: inline;
+    padding: 0 6em 5px 0;
+        
+}
+.up{
+    display: block;
+    margin-bottom: 45px;
+}
+.info{  
+     display: inline-block;
+}
+.info span{
+    display: block;
+    border-bottom-style: solid;
+    border-width: 1px;
+    border-bottom-color: white;
+    font-size: 1em;
+    color: white;
+    font-size: 1.4em;
+    color: white;
+    padding: 0 1em 4px 0;
+    margin: .7em 0 0 3em; 
+}
+.info span p{
+     display: inline-block;
+}
+.name{
+    margin: 1em 0 0 4.5em;
+}
+.born{
+    margin: 1em 0 0 5em;
+}
+.add{
+    margin: 1em 0 0 3.5em;
+}
+.mail{
+    margin: 1em 0 0 4.7em;
+}
+.web{
+    margin: 1em 0 0 3.6em;
+}
+.cp{
+    margin: 1em 0 0 4.3em;
 }
