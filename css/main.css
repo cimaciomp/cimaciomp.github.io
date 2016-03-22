@@ -194,6 +194,7 @@ section div{
 }
 .info span p{
      display: inline-block;
+     color: darkgray;
 }
 .name{
     margin: 1em 0 0 4.5em;
